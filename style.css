@@ -1,0 +1,27 @@
+header{
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+    background-color: cadetblue;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: cyan;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer p{
+    background-color: beige;
+}
+
+nav{
+    border: 5px solid blueviolet;
+    padding: 5px;
+    margin-top: 5px;
+}
